@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263850221990",
+    "project_id": "flutter-taxi-app-71b89",
+    "storage_bucket": "flutter-taxi-app-71b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263850221990:android:8fee5f5e94b93c38dc6f67",
+        "android_client_info": {
+          "package_name": "com.tridentmotocorp.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263850221990-0gtu57ektjgf8rabg7sfg7e3c4i4f9rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49SIV6lLEGQrPra7zrfYVs-dyqEL1zuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263850221990-0gtu57ektjgf8rabg7sfg7e3c4i4f9rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
